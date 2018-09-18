@@ -2,7 +2,9 @@
      $quotes = [
             0 => 'Even if you&#39;re on the right track, you&#39;ll get run over if you just sit there',
             1 => 'Trust yourself. You know more than you think you do',
-            2 => 'You&#39;re going to fall down, but the world doesn&#39;t care how many times you fall down, as loong as it&#39;s one fewer than the number of times you get back up'
+            2 => 'You&#39;re going to fall down, but the world doesn&#39;t care how many times you fall down, as long as it&#39;s one fewer than the number of times you get back up',
+            3 => 'Be your own hero',
+            4 => 'You&#39;re off to great places. Today is your day. Your mountain is waiting, so get on your way.'
         ]
 ?>
 
@@ -34,7 +36,7 @@
 			</div>
 		<h2>Random Quote</h2>
 		<blockquote>
-		<?php echo $quotes[rand(0,2)]; ?>
+		<?php echo $quotes[rand(0,4)]; ?>
 		</blockquote>
 
 	</div>
