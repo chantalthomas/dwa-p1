@@ -12,7 +12,8 @@ h2 {
 	text-align:center;
 }
 
-img
+img,
+blockquote
 {
 	display:block;
 	margin:auto;
