@@ -35,8 +35,8 @@
 				</p>
 			</div>
 		<h2>Random Quote</h2>
-		<blockquote>
-		<?php echo $quotes[rand(0,4)]; ?>
+		<blockquote class="quotes">
+		  <?php echo $quotes[rand(0,4)]; ?>
 		</blockquote>
 
 	</div>

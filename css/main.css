@@ -18,7 +18,8 @@ img
 	margin:auto;
 }
 
-.aboutMe{	
+.aboutMe,
+.quotes{	
 	margin: auto;
 	width: 45%;
 }
