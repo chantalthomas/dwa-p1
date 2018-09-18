@@ -34,7 +34,7 @@
 			</div>
 		<h2>Random Quote</h2>
 		<blockquote>
-		<?php echo $quotes; ?>
+		<?php echo $quotes[0]; ?>
 		</blockquote>
 
 	</div>
