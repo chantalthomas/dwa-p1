@@ -18,13 +18,11 @@ img
 	margin:auto;
 }
 
-/*.aboutMe{	
-	margin: auto;
-	width: 45%;
-}
-*/
-blockquote{
-    color: red;
+.aboutMe,
+.quotes {
+    display: block;
+    margin: auto;
+    text-align: center;
 }
 
 
