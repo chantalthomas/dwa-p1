@@ -2,6 +2,7 @@
 	width:70%;
 	margin: auto;
 	font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 h1,
@@ -12,17 +13,12 @@ h2 {
 	text-align:center;
 }
 
-img
+img,
+.aboutMe,
+.quotes 
 {
 	display:block;
 	margin:auto;
-}
-
-.aboutMe,
-.quotes {
-    display: block;
-    margin: auto;
-    text-align: center;
 }
 
 
