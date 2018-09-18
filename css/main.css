@@ -12,8 +12,7 @@ h2 {
 	text-align:center;
 }
 
-img,
-blockquote
+img
 {
 	display:block;
 	margin:auto;
@@ -21,6 +20,7 @@ blockquote
 
 .aboutMe,
 .quotes{	
+    display: block;
 	margin: auto;
 	width: 45%;
 }
