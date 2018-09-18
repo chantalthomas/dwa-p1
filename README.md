@@ -4,9 +4,12 @@ DWA Fall 2018 - Project 1
 + Production URL: <http://dwa-p1.dwafall18.me/>
 
 ## Outside resources
-https://fonts.google.com/specimen/Cinzel?selection.family=Montserrat - Heading font
+Fonts
++ [Heading font](https://fonts.google.com/specimen/Cinzel?selection.family=Montserrat)
++ [Content font](https://fonts.google.com/specimen/BioRhyme?selection.family=Roboto)
 
-https://fonts.google.com/specimen/BioRhyme?selection.family=Roboto - Content font
+CSS
++ [Normalize browser styling](https://github.com/chantalthomas/csci-e39) - This can be found in the Design Pattern project within this repo
 
 ## Notes for instructor
-n/a
+All the quotes came from a note in my cell phone
